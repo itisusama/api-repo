@@ -1,0 +1,112 @@
+[
+    {
+        "id": 265,
+        "name": "XhPlbHEhFz",
+        "age": 28,
+        "email": "ULjPS@example.com",
+        "address": {
+            "street": "slBxaVGy St",
+            "city": "GkFJuI",
+            "zipcode": "05968"
+        }
+    },
+    {
+        "id": 228,
+        "name": "yMyqYMdIDn",
+        "age": 30,
+        "email": "BkHlu@example.com",
+        "address": {
+            "street": "qcAURJWE St",
+            "city": "PBbITh",
+            "zipcode": "35614"
+        }
+    },
+    {
+        "id": 216,
+        "name": "WLaSJyGEWw",
+        "age": 18,
+        "email": "XKsKO@example.com",
+        "address": {
+            "street": "QaZxgcgt St",
+            "city": "wqHRkg",
+            "zipcode": "23769"
+        }
+    },
+    {
+        "id": 850,
+        "name": "UyOgohgXJO",
+        "age": 66,
+        "email": "cxVQa@example.com",
+        "address": {
+            "street": "zQqlARuj St",
+            "city": "MpeWgo",
+            "zipcode": "05983"
+        }
+    },
+    {
+        "id": 415,
+        "name": "SXKXLvtQXL",
+        "age": 22,
+        "email": "kGRlS@example.com",
+        "address": {
+            "street": "psPZgAlf St",
+            "city": "tlXlTl",
+            "zipcode": "59952"
+        }
+    },
+    {
+        "id": 281,
+        "name": "ybqIqiVgPw",
+        "age": 57,
+        "email": "zcwpl@example.com",
+        "address": {
+            "street": "IoBMOOGb St",
+            "city": "sVyCJL",
+            "zipcode": "88395"
+        }
+    },
+    {
+        "id": 33,
+        "name": "PblbQbBrai",
+        "age": 58,
+        "email": "xmDHE@example.com",
+        "address": {
+            "street": "HJGbSvNB St",
+            "city": "FAiOQf",
+            "zipcode": "03039"
+        }
+    },
+    {
+        "id": 622,
+        "name": "sZnfYeygeS",
+        "age": 18,
+        "email": "MZzqh@example.com",
+        "address": {
+            "street": "pjFDrzWe St",
+            "city": "GfTLfy",
+            "zipcode": "50404"
+        }
+    },
+    {
+        "id": 676,
+        "name": "bfXomnJZOE",
+        "age": 51,
+        "email": "ONqyX@example.com",
+        "address": {
+            "street": "AqtqKpWe St",
+            "city": "gAPJya",
+            "zipcode": "59030"
+        }
+    },
+    {
+        "id": 399,
+        "name": "oGcsPRnFrV",
+        "age": 51,
+        "email": "uzdRg@example.com",
+        "address": {
+            "street": "pJtqZEOz St",
+            "city": "paABhg",
+            "zipcode": "14742"
+        }
+    }
+]
